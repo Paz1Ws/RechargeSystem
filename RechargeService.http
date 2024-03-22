@@ -1,0 +1,6 @@
+@RechargeService_HostAddress = http://localhost:5155
+
+GET {{RechargeService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
